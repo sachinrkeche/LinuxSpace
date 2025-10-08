@@ -1,0 +1,3 @@
+log4j-1.2.16.jar
+log4j-1.2.8.jar
+jboss-client.jar

@@ -1,0 +1,12 @@
+🚀 Starting mapped downloads...
+Using: curl
+⚡ Parallel mode enabled
+🔁 Force mode enabled (will overwrite existing files)
+⚙️  Running parallel downloads (max 5 at once)...
+⬇️  Downloading: https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.25.1/log4j-api-2.25.1.jar → /workspaces/LinuxSpace/JarDeletionDownload/Downloads/jars
+⬇️  Downloading: https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.25.1/log4j-core-2.25.1.jar → /workspaces/LinuxSpace/JarDeletionDownload/Downloads/jars
+⬇️  Downloading: https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-slf4j2-impl/2.25.1/log4j-slf4j2-impl-2.25.1.jar → /workspaces/LinuxSpace/JarDeletionDownload/Downloads/jars
+✅ Success: /workspaces/LinuxSpace/JarDeletionDownload/Downloads/jars/log4j-api-2.25.1.jar
+✅ Success: /workspaces/LinuxSpace/JarDeletionDownload/Downloads/jars/log4j-slf4j2-impl-2.25.1.jar
+✅ Success: /workspaces/LinuxSpace/JarDeletionDownload/Downloads/jars/log4j-core-2.25.1.jar
+🎯 All downloads complete. Log saved at: ./download_log_2025-10-08_10-32-44.txt
