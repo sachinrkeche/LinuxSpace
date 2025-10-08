@@ -1,5 +1,5 @@
 # LinuxSpace
-This repository is for Linux environment to run the script file 
+This repository is for Linux environment to run the script file which finds the mentioned jar file, delete it and update with the latest version. 
 
 Runner steps
 To run the deletion script go to the Deletion path and execute below command, 
