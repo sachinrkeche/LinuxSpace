@@ -1,3 +1,7 @@
 https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.25.1/log4j-api-2.25.1.jar /workspaces/LinuxSpace/JarDeletionDownload/Downloads/jars
 https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.25.1/log4j-core-2.25.1.jar /workspaces/LinuxSpace/JarDeletionDownload/Downloads/jars
 https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-slf4j2-impl/2.25.1/log4j-slf4j2-impl-2.25.1.jar /workspaces/LinuxSpace/JarDeletionDownload/Downloads/jars
+sudo chown svc_automate:svc_bamboogroup /workspaces/LinuxSpace/JarDeletionDownload/Downloads/jars/log4j*
+sudo chown svc_automate:svc_bamboogroup /workspaces/LinuxSpace/JarDeletionDownload/Downloads/jars/log4j*
+sudo chmod 775 /workspaces/LinuxSpace/JarDeletionDownload/Downloads/jars/log4j*
+sudo chmod 775 /workspaces/LinuxSpace/JarDeletionDownload/Downloads/jars/log4j*
